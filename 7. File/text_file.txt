@@ -1,0 +1,6 @@
+Name : Main Uddin
+Age : 20
+Salary : 4200.500
+Name : Yamim
+Age : 20
+Salary : 2500.500

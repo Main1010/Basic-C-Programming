@@ -1,0 +1,8 @@
+Name		Grade		Number		Fees
+----		-----	        ------		----
+
+Mohammed Main Uddin		 12		97727247		900.500
+AL Amin		 12		98334036		800.500
+Abir Bakhtiar		 10		98451654		902.400
+Said Amin		 9		94785321		1000.300
+Mahmud Rahman Yamim		 11		98745632		1200.500
